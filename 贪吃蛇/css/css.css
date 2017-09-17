@@ -1,0 +1,12 @@
+table,tr,td{
+	border: 1px solid orange;
+	border-collapse: collapse;
+}
+table{
+	margin: 0 auto;
+}
+td{
+	width: 30px;
+	height: 30px;
+	color: pink;
+}
